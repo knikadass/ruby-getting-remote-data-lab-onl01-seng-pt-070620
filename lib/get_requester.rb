@@ -7,7 +7,7 @@ class GetRequester
 
     attr_accessor :url
     
-    URL = "URL"
+   
 
     def initialize(url)
         @url = url
